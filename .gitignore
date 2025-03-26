@@ -1,0 +1,13 @@
+ECHO가 설정되어 있습니다.
+# Java / Spring
+/target/
+/build/
+*.log
+
+# IDE 설정
+.idea/
+*.iml
+.vscode/
+
+# 환경 설정
+/src/main/resources/application.properties
