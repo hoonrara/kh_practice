@@ -1,13 +1,13 @@
-ECHO°¡ ¼³Á¤µÇ¾î ÀÖ½À´Ï´Ù.
+ECHOï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ç¾ï¿½ ï¿½Ö½ï¿½ï¿½Ï´ï¿½.
 # Java / Spring
 /target/
 /build/
 *.log
 
-# IDE ¼³Á¤
+# IDE ï¿½ï¿½ï¿½ï¿½
 .idea/
 *.iml
 .vscode/
 
-# È¯°æ ¼³Á¤
-/src/main/resources/application.properties
+# È¯ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½
+src/main/resources/application.yml
